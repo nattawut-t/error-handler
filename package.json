@@ -1,0 +1,11 @@
+{
+  "name": "error-handler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nattawut-t/error-handler.git"
+  },
+  "author": "Nattawut Tammaratmetee <1203ball@gmail.com>"
+}
