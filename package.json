@@ -7,5 +7,8 @@
     "type": "git",
     "url": "git@github.com:nattawut-t/error-handler.git"
   },
-  "author": "Nattawut Tammaratmetee <1203ball@gmail.com>"
+  "author": "Nattawut Tammaratmetee <1203ball@gmail.com>",
+  "dependencies": {
+    "bluebird": "^3.5.1"
+  }
 }
